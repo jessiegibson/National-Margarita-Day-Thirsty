@@ -1,0 +1,4 @@
+id,map_id,address,description,pic,link,icon,lat,lng,anim,title,infoopen,category,approved,retina,type,did,sticky,other_data
+1,1,California,,,,,36.778261,-119.4179323999,0,,,,1,0,0,,0,
+2,2,"161 Attorney Street, New York, NY, USA","<p>This is the testing </p>",,,,40.7207593,-73.9834162,0,"Testing Location",0,,1,1,0,,0,a:0:{}
+3,2,"431 West 48th Street, New York, NY, USA","<p>This is another venue in New York.</p>",,,,40.763085,-73.991251,0,"Test Number Two",0,,1,1,0,,0,a:0:{}

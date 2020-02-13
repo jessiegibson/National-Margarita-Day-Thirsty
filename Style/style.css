@@ -1,0 +1,60 @@
+.wpgmza_marker_address{ font-size:16px;font-weight:300;}
+.wpgmza_mlist_row .wpgmza_carousel_info_holder .wpgmza_marker_title{text-transform:capitalize;font-weight:900;font-size:1.5em;}
+.wpgmza_infowindow_title{text-transform: uppercase;font-size: 30px;font-weight: 900;}
+.wpgmza_infowindow_address {white-space: normal;line-height: 1;font-size: 24px;padding: 5px 10px;}
+.wpgmza_gd {outline: 0 none;text-decoration: none;font-size: 16px;font-weight: 900;text-transform: uppercase;padding: 2px 5px;}
+.wpgmza_iw_title { text-transform: capitalize; font-weight:700;}
+.wpgmza_infowindow_image{float:right;max-width:150px;}
+
+.wpgmza_marker_address{
+	font-size:0.66em;
+	font-weight:300;
+}
+.wpgmza_marker_title{
+	text-transform:capitalize !important;
+	font-weight:900 !important;
+	font-size:1.5em !important;
+}
+<!-- #########################################################
+		
+							START PAGE CSS
+
+     ######################################################### -->
+<!-- AVAILABLE UNUSED CLASSES AND IDS -->
+#nmd-thirsty-logo{}
+.nmd-powered-by{}
+<!-- AVAILABLE UNUSED CLASSES AND IDS -->
+
+.market-link-overlay h4 a{color:#fff;font-weight:900;}
+.margarita-page-copy{color:#000;text-align:justify;}
+div.page-section-content {padding:20px 0 110px !important;}
+
+div.market-link-overlay h4 a {background-color:#000;}
+#original-margarita{font-size:2.5em;font-weight:900;}
+#margarita-page-title,#market-title,#margarita-recipe-title{ font-weight:900;color:#fff;text-align:center;}
+#page-title-highlight{background-color:#ff0037;}
+#hero-copy-highlight{background-color:#fff;}
+#margarita-page-title{font-size:44px;}
+#market-title-row {padding-top:25px;}
+#markets-participating-row {background-color:#ffdca2;}
+#hero-landing-page-text a{font-weight: 900;text-transform: uppercase;} 
+
+
+@media (max-width:1000px) and (min-width: 676px) { 
+.margarita-page-copy{color:#000;font-size:18px;line-height:1.5em;padding-top:2px;padding-bottom:3px;}
+#hero-content-page-section div.page-section-content {padding:20px 0 110px;}
+}
+
+@media (max-width: 675px) { 
+.margarita-page-copy{font-size:18px;line-height:1.5em;padding-top:2px;padding-bottom:3px;}
+#hero-content-page-section div.page-section-content {padding:20px 0 50px;}
+#hero-landing-page-text a{font-weight: 900;text-transform: uppercase;} 
+}
+
+@media (max-width: 400px) { 
+.margarita-page-copy{font-size:16px;line-height:1.25em;padding-top:2px;padding-bottom:3px;}
+#market-title-row {padding-top:25px;}
+#margarita-page-title{font-size:26px;}
+#hero-content-page-section div.page-section-content {padding:20px 0 110px;}
+#hero-landing-page-text a{font-weight: 900;text-transform: uppercase;} 
+}

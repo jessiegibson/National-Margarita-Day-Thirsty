@@ -1,0 +1,38 @@
+Grammarly.js:2 [DEFAULT]: WARN : Using DEFAULT root logger
+t.printToConsole @ Grammarly.js:2
+load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:8 JQMIGRATE: Migrate is installed, version 1.4.1
+wp-google-maps-pro.min.js:1 Uncaught Error: Not a valid latLng
+    at Object.stringToLatLng (wp-google-maps-pro.min.js:1)
+    at stringCoordinateArrayToGoogleMapsLagLngArray (legacy-map-edit-page.js:352)
+    at HTMLDocument.<anonymous> (legacy-map-edit-page.js:387)
+    at i (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:2)
+    at Object.fireWith [as resolveWith] (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:2)
+    at Function.ready (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:2)
+    at HTMLDocument.J (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:2)
+wp-google-maps-pro.min.js:1 Uncaught TypeError: Cannot read property 'element' of undefined
+    at new WPGMZA.ThemeEditor (wp-google-maps-pro.min.js:1)
+    at WPGMZA.currentPage.WPGMZA.ProMapEditPage.WPGMZA.currentPage.WPGMZA.MapEditPage (wp-google-maps-pro.min.js:1)
+    at new WPGMZA.currentPage.WPGMZA.ProMapEditPage (wp-google-maps-pro.min.js:1)
+    at Function.WPGMZA.currentPage.WPGMZA.MapEditPage.createInstance (wp-google-maps-pro.min.js:1)
+    at wp-google-maps-pro.min.js:1
+    at dispatch (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3)
+    at r.handle (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3)
+wp-google-maps-pro.min.js:1 Uncaught Error: Source element not found
+    at HTMLButtonElement.<anonymous> (wp-google-maps-pro.min.js:1)
+    at HTMLBodyElement.dispatch (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3)
+    at HTMLBodyElement.r.handle (load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3)
+(anonymous) @ wp-google-maps-pro.min.js:1
+dispatch @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3
+r.handle @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3
+load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:4 XHR finished loading: POST "https://thirstymag.com/wp-admin/admin-ajax.php".
+send @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:4
+ajax @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:4
+l @ heartbeat.min.js:1
+(anonymous) @ heartbeat.min.js:1
+setTimeout (async)
+d @ heartbeat.min.js:1
+v @ heartbeat.min.js:1
+h @ heartbeat.min.js:1
+(anonymous) @ heartbeat.min.js:1
+dispatch @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3
+r.handle @ load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.3.2:3

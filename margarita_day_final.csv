@@ -1,0 +1,132 @@
+,formatted_address,latitude,longitude,accuracy,google_place_id,type,postcode,input_string,number_of_results,status
+0,"221 Smith St, Brooklyn, NY 11201, USA",40.6842838,-73.9919281,ROOFTOP,ChIJS9ai_VBawokRH0qK9j47fDY,premise,11201,"221 smith st.,Brooklyn,NY,",1,OK
+1,"4 Bleecker St, New York, NY 10012, USA",40.7252328,-73.9927354,ROOFTOP,ChIJd3zZEIVZwokRwk41a_YpFbw,subpremise,10012,"4 bleeker st.,New York,NY,",1,OK
+2,"197 2nd Ave, New York, NY 10003, USA",40.7313711,-73.9860217,ROOFTOP,ChIJcX7ph55ZwokRAg3ynS2ulSQ,premise,10003,"197 2nd ave.,New York,NY,",1,OK
+3,"18 Spring St, New York, NY 10012, USA",40.7213105,-73.9950142,ROOFTOP,ChIJh-vLpohZwokRoSze1DIWPrw,premise,10012,"18 spring st.,New York,NY,",1,OK
+4,"105 1st Avenue, New York, NY 10003, USA",40.7267784,-73.9862398,ROOFTOP,ChIJV3pG2ZxZwokRuJG6aGBQAu8,premise,10003,"105 1st ave.,New York,NY,",1,OK
+5,"94 Avenue A, New York, NY 10009, USA",40.7254892,-73.9836739,ROOFTOP,ChIJjRS-soJZwokRMfwZSuhwbwY,street_address,10009,"94 avenue a,New York,NY,",1,OK
+6,"128 W Houston St, New York, NY 10012, USA",40.72787,-74.00106699999999,ROOFTOP,ChIJRy7Z-I1ZwokRqDGo6pg8SSY,street_address,10012,"128 w houston,New York,NY,",1,OK
+7,"190 West 4th Street, New York, NY 10014, USA",40.7326969,-74.0022796,ROOFTOP,ChIJTUPrjJNZwokRRE5RaLsModY,street_address,10014,"190 w. 4th st.,New York,NY,",1,OK
+8,"123 Lexington Ave, New York, NY 10016, USA",40.7427536,-73.98206739999999,ROOFTOP,ChIJc8X-MghZwokRsWkiO-BosEs,premise,10016,"123 lexington ave.,New York,NY,",1,OK
+9,"2122 Beekman Pl, Brooklyn, NY 11225, USA",40.6599147,-73.9608634,ROOFTOP,ChIJy7DJIhNbwokR3WwERQzMcvI,premise,11225,"2122 beekman pl.,Brooklyn,NY,",1,OK
+10,"2727 Indian Creek Dr, Miami Beach, FL 33140, USA",25.8045687,-80.1264365,ROOFTOP,ChIJa93I_GOz2YgRG6Oo0508JZk,premise,33140,"2727 indian creek dr,Miami,FL,33140",1,OK
+11,"437 SW 2nd St, Miami, FL 33130, USA",25.7721277,-80.2017376,ROOFTOP,ChIJRbo3qpG22YgRT-fT9qTtFuI,premise,33130,"437 sw 2nd st,Miami,FL,33130",1,OK
+12,"820 Alton Rd, Miami Beach, FL 33139, USA",25.778578,-80.14122429999999,ROOFTOP,ChIJF-MK6Yq02YgR8MiJWFRImnA,street_address,33139,"820 Alton Rd, Miami Beach, FL 33139",1,OK
+13,"3456 N Miami Ave, Miami, FL 33127, USA",25.8092934,-80.195584,ROOFTOP,ChIJY32S0VOx2YgR0D7suXEz86w,street_address,33127,"3456 n miami ave,Miami,FL,33127",1,OK
+14,"971 SW 8th St, Miami, FL 33130, USA",25.7662659,-80.2104537,ROOFTOP,ChIJHWa7OvO22YgRaOkmTFM9oqk,premise,33130,"971 sw 8th st,Miami,FL,33130",1,OK
+15,"1690 Collins Ave, Miami Beach, FL 33139, USA",25.7921705,-80.13007879999999,ROOFTOP,ChIJvXwBFZu02YgRHGamIaXuuxg,premise,33139,"1690 collins ave,Miami Beach,FL,33139",1,OK
+16,"75 SE 6th St, Miami, FL 33131, USA",25.7684072,-80.19103729999999,ROOFTOP,ChIJcflkMoO22YgRcdXL6VzdPpw,premise,33131,"75 se 6th st,Miami,FL,33131",1,OK
+17,"251 NW 25th St, Miami, FL 33127, USA",25.8008908,-80.2002122,ROOFTOP,ChIJAb4JXbK22YgRB8YhLBnqVvs,premise,33127,"251 nw 25th st,Miami,FL,33137",1,OK
+18,"237 20th St ste b, Miami Beach, FL 33139, USA",25.7959836,-80.1297409,ROOFTOP,Ei0yMzcgMjB0aCBTdCBzdGUgYiwgTWlhbWkgQmVhY2gsIEZMIDMzMTM5LCBVU0EiIRofChYKFAoSCdPxqOWctNmIEQFoR7meRPVCEgVzdGUgYg,subpremise,33139,"237 20th st ste b,Miami Beach,FL,33139",1,OK
+19,"2637 N Miami Ave, Miami, FL 33127, USA",25.802335,-80.194733,ROOFTOP,ChIJ66W366y22YgRYUOjexrKJ98,street_address,33127,"2637 n miami ave,Miami,FL,33127",1,OK
+20,"500 Brickell Ave ste d, Miami, FL 33131, USA",25.7684072,-80.19103729999999,ROOFTOP,Eiw1MDAgQnJpY2tlbGwgQXZlIHN0ZSBkLCBNaWFtaSwgRkwgMzMxMzEsIFVTQSIhGh8KFgoUChIJUYWUK4O22YgRj8geNv0V4fESBXN0ZSBk,subpremise,33131,"500 brickell ave ste d,Miami,FL,33131",1,OK
+21,"2727 Indian Creek Dr, Miami Beach, FL 33140, USA",25.8045687,-80.1264365,ROOFTOP,ChIJa93I_GOz2YgRG6Oo0508JZk,premise,33140,"2727 indian creek dr,Miami Beach,FL,33140",1,OK
+22,"207 NE 1st St, Miami, FL 33132, USA",25.7753875,-80.1900783,ROOFTOP,ChIJ4-6lY5622YgRQuqi-Y1KzUk,premise,33132,"207 ne 1st st,Miami,FL,33132",1,OK
+23,"205 Westshore Plaza, Tampa, FL 33609, USA",27.9464828,-82.5265786,ROOFTOP,ChIJYzGXJ_vCwogR9c3wkqLPfWw,street_address,33609,"205 westshore plaza,Tampa,FL,",1,OK
+24,"365 Main St, Dunedin, FL 34698, USA",28.0115872,-82.7882815,ROOFTOP,ChIJq94IrnzxwogRVuGtp39gMBA,premise,34698,"365 main st,Dunedin,FL,",1,OK
+25,"911 Central Ave, St. Petersburg, FL 33705, USA",27.771326,-82.6471811,ROOFTOP,ChIJfc8AuYDhwogRh0wejmDOy7o,street_address,33705,"911 central ave,St Petersburg,FL,",1,OK
+26,"1704 E 7th Ave, Tampa, FL 33605, USA",27.960501,-82.44020669999999,ROOFTOP,ChIJzcz0VFDEwogRQyj-fVcCZ5E,premise,33605,"1704 E 7th Ave,Tampa,FL,",1,OK
+27,"1327 E 7th Ave, Tampa, FL 33605, USA",27.9600238,-82.4444005,ROOFTOP,ChIJp2kCXFrEwogRD6kVDlmAjyw,premise,33605,"1327 e 7th ave,Tampa,FL,",1,OK
+28,"633 N Franklin St, Tampa, FL 33602, USA",27.9495214,-82.458541,ROOFTOP,ChIJGQcm04vEwogRE8MazWs3WFU,street_address,33602,"633 n franklin st,Tampa,FL,",1,OK
+29,"1878 Sylvan Ave e150, Dallas, TX 75208, USA",32.7691775,-96.8355212,ROOFTOP,EisxODc4IFN5bHZhbiBBdmUgZTE1MCwgRGFsbGFzLCBUWCA3NTIwOCwgVVNBIiAaHgoWChQKEglJrzUE2JtOhhFAuB5Ay4-MjBIEZTE1MA,subpremise,75208,"1878 sylvan ave ste e150,Dallas,TX,75208",1,OK
+30,"2010 Greenville Ave, Dallas, TX 75206, USA",32.8142496,-96.7699138,RANGE_INTERPOLATED,EioyMDEwIEdyZWVudmlsbGUgQXZlLCBEYWxsYXMsIFRYIDc1MjA2LCBVU0EiGxIZChQKEgn1d2PSSZ9OhhE_757uzbN8ahDaDw,street_address,75206,"2010 greenville ave,Dallas,TX,75206",1,OK
+31,"2008 Greenville Ave, Dallas, TX 75206, USA",32.8141897,-96.77003739999999,ROOFTOP,ChIJpfK7zUmfToYRxUePOwr3PJk,street_address,75206,"2008 greenville ave,Dallas,TX,75206",1,OK
+32,"2614 Boll St, Dallas, TX 75204, USA",32.7979763,-96.8019654,ROOFTOP,ChIJhRz-DS6ZToYRmhSwyDjFXaI,premise,75204,"2614 boll st,Dallas,TX,75204",1,OK
+33,"3090 Oliver St ste b 110, Dallas, TX 75205, USA",32.8195226,-96.7890829,RANGE_INTERPOLATED,Ei8zMDkwIE9saXZlciBTdCBzdGUgYiAxMTAsIERhbGxhcywgVFggNzUyMDUsIFVTQSIqGigKGxIZChQKEgkXnNv5Jp9OhhHolddWyE0kmhCSGBIJc3RlIGIgMTEw,subpremise,75205,"3090 oliver st ste b 110,Dallas,TX,75205",1,OK
+34,"604 N Tyler St, Dallas, TX 75208, USA",32.7496496,-96.83723549999999,ROOFTOP,ChIJZw5tpimaToYR7uCXR71VgZY,street_address,75208,"604 n tyler st,Dallas,TX,75208",1,OK
+35,"1617 Hi Line Dr, Dallas, TX 75207, USA",32.7952162,-96.8184364,ROOFTOP,ChIJf_AM206ZToYRV1EqRzWcRd4,street_address,75207,"1617 hi line dr,Dallas,TX,75207",1,OK
+36,"605 Brazos St, Austin, TX 78701, USA",30.2681716,-97.7410422,ROOFTOP,ChIJ7XFDZae1RIYRsc65KjI3yV8,street_address,78701,"605 brazos st,Austin,TX,78701",1,OK
+37,"307 W 5th St, Austin, TX 78701, USA",30.26765739999999,-97.74629619999999,ROOFTOP,ChIJo_QYJQm1RIYRyDuOw3B68LU,premise,78701,"307 w 5th st,Austin,TX,78701",1,OK
+38,,,,,,,,"3100 fannin st #115,Houston,TX,77004",0,REQUEST_DENIED
+39,"5802 Fulton St, Houston, TX 77009, USA",29.8118875,-95.36954229999999,ROOFTOP,ChIJ6y9GlvO4QIYRB5Ltia4wy6M,premise,77009,"5802 fulton st,Houston,TX,77009",1,OK
+40,"1010 Banks St, Houston, TX 77006, USA",29.7303325,-95.3916852,ROOFTOP,ChIJ42lMYX6_QIYRzprOBN1XoMU,premise,77006,"1010 banks st,Houston,TX,77006",1,OK
+41,"1919 Greenville Ave, Dallas, TX 75206, USA",32.8141255,-96.77046449999999,ROOFTOP,ChIJVYFf1EmfToYRsJGZxeO1FW0,street_address,75206,"1919 greenville ave,Dallas,TX,75206",1,OK
+42,"1530 Main St, Dallas, TX 75201, USA",32.7807089,-96.7984434,ROOFTOP,ChIJf5T2uBiZToYRUxrX1NaqqEc,street_address,75201,"1530 main st,Dallas,TX,75201",1,OK
+43,"2714 Elm St, Dallas, TX 75226, USA",32.784475,-96.784087,ROOFTOP,ChIJBboICt2YToYRT5-Yxnkkfts,street_address,75226,"2714 elm st,Dallas,TX,75226",1,OK
+44,"1914 Greenville Ave, Dallas, TX 75206, USA",32.8133152,-96.7700009,ROOFTOP,ChIJofSNwkmfToYR8Ch0IhJcFpg,premise,75206,"1914 greenville ave,Dallas,TX,75206",1,OK
+45,"1915 Greenville Ave, Dallas, TX 75206, USA",32.8139371,-96.77049489999999,ROOFTOP,ChIJ9VPK1kmfToYRV4jsf2GphCM,subpremise,75206,"1915 greenville ave,Dallas,TX,75207",1,OK
+46,"5855 Maple Ave #190, Dallas, TX 75235, USA",32.8222142,-96.83819860000001,ROOFTOP,Eio1ODU1IE1hcGxlIEF2ZSAjMTkwLCBEYWxsYXMsIFRYIDc1MjM1LCBVU0EiHxodChYKFAoSCTOjmQQfnE6GEaPFg56d4iOvEgMxOTA,subpremise,75235,"5855 maple ave ste 190,Dallas,TX,75235",1,OK
+47,"400 Crescent Ct, Dallas, TX 75201, USA",32.7945621,-96.8044675,ROOFTOP,ChIJl6ntIjCZToYRd6szccm4CQU,street_address,75201,"400 crescent ct,Dallas,TX,75201",1,OK
+48,"9028 Garland Rd, Dallas, TX 75218, USA",32.8276979,-96.70886929999999,ROOFTOP,ChIJ2TrMXZ6hToYRdwv144nrYqg,premise,75218,"9028 garland rd,Dallas,TX,75218",1,OK
+49,"1601 Main St, Dallas, TX 75201, USA",32.7814061,-96.798312,ROOFTOP,ChIJcZyOsBiZToYRyRnwLzCtbGI,street_address,75201,"1601 main st,Dallas,TX,75201",1,OK
+50,"1607 Pacific Ave, Venice, CA 90291, USA",33.9874504,-118.4723025,ROOFTOP,ChIJo75YrLm6woAR3koFYdfjapM,street_address,90291,"1607 pacific ave,Venice,CA,90291",1,OK
+51,"1263 W Temple St, Los Angeles, CA 90026, USA",34.0663995,-118.2541135,ROOFTOP,ChIJsbO8FADHwoAR3TotU97dvNY,street_address,90026,"1263 w temple st,Los Angeles,CA,90026",1,OK
+52,"1927 Hillhurst Ave, Los Angeles, CA 90027, USA",34.1062223,-118.2877828,ROOFTOP,ChIJZ-H-16_AwoARhR3kNED0pQo,premise,90027,"1927 hillhurst ave,Los Angeles,CA,90027",1,OK
+53,"9010 Melrose Ave, West Hollywood, CA 90069, USA",34.0805544,-118.3882164,ROOFTOP,ChIJYztQ2ai-woAR4xLrX5AMBSs,street_address,90069,"9010 melrose ave,West Hollywood,CA,90069",1,OK
+54,"416 W 8th St, Los Angeles, CA 90014, USA",34.0448071,-118.2565653,ROOFTOP,ChIJE80IjrXHwoARhTtlH_xPbOQ,street_address,90014,"416 w 8th st,Los Angeles,CA,90014",1,OK
+55,"7465 Melrose Ave, Los Angeles, CA 90046, USA",34.0838389,-118.3527123,ROOFTOP,ChIJPeMRetO-woARGz-WsWAHF84,subpremise,90046,"7465 melrose ave,Los Angeles,CA,90046",1,OK
+56,"12477 Washington Blvd, Los Angeles, CA 90066, USA",33.9970245,-118.4306542,ROOFTOP,ChIJHQr6Xma6woARItp8sGOf0L4,street_address,90066,"12477 w washington blvd,Los Angeles,CA,90066",1,OK
+57,"107 E 6th St, Los Angeles, CA 90014, USA",34.045111,-118.249511,ROOFTOP,ChIJGx8ynDXGwoARe3k4ZzZlkjc,street_address,90014,"107 e 6th st,Los Angeles,CA,90014",1,OK
+58,"1228 Sunset Blvd, Los Angeles, CA 90026, USA",34.069022,-118.2507193,ROOFTOP,ChIJ7ZWfTv7GwoARHKVpFTldsmY,street_address,90026,"1228 sunset blvd,Los Angeles,CA,90026",1,OK
+59,"5221 Hollywood Blvd, Los Angeles, CA 90027, USA",34.1019041,-118.3042997,ROOFTOP,ChIJmwKpJVe_woAR7lxkcwO_kj8,street_address,90027,"5221 hollywood blvd,Los Angeles,CA,90027",1,OK
+60,"5635 N Figueroa St, Los Angeles, CA 90042, USA",34.10962,-118.19328,ROOFTOP,ChIJs-x-bhDEwoARYfFuRekls0s,street_address,90042,"5635 n figueroa st,Los Angeles,CA,90042",1,OK
+61,"1540 Sunset Blvd, Los Angeles, CA 90026, USA",34.0762828,-118.2567722,ROOFTOP,ChIJqTYV6hzHwoARIpMQ_THQD4Y,street_address,90026,"1540 sunset blvd,Los Angeles,CA,90026",1,OK
+62,"7360 Beverly Blvd, Los Angeles, CA 90036, USA",34.0759024,-118.3503522,ROOFTOP,ChIJf-s4aym5woAR6t2FCwKsDyU,premise,90036,"7360 beverly blvd,Los Angeles,CA,90036",1,OK
+63,"1115 E Wardlow Rd, Long Beach, CA 90807, USA",33.8191142,-118.1780234,ROOFTOP,ChIJNYP6Pb8z3YARalflJMIFHkI,premise,90807,"1115 e wardlow rd,Long Beach,CA,90807",1,OK
+64,"1117 E Wardlow Rd, Long Beach, CA 90807, USA",33.819124,-118.1780956,ROOFTOP,ChIJfx9AFr8z3YARldKGg2xIyPQ,street_address,90807,"1117 e wardlow rd,Long Beach,CA,90807",1,OK
+65,"136 E Anaheim St, Long Beach, CA 90813, USA",33.78241,-118.1917222,ROOFTOP,ChIJA-pAJEUx3YARy9y_gH9nBq0,premise,90813,"136 e anaheim st,Long Beach,CA,90813",1,OK
+66,"820 W 19th St, Costa Mesa, CA 92627, USA",33.6435623,-117.9328865,ROOFTOP,ChIJB6vzTXog3YAR62M8FCogYRQ,street_address,92627,"820 w 19th st,,Costa Mesa,CA,92627",1,OK
+67,"891 Baker St, Costa Mesa, CA 92626, USA",33.6796832,-117.8940985,ROOFTOP,ChIJ0yoQRRbf3IARIz7esHmbCA8,street_address,92626,"891 baker st,Costa Mesa,CA,92626",1,OK
+68,"1816 1/2 N Vermont Ave, Los Angeles, CA 90027, USA",34.1040603,-118.2915836,ROOFTOP,ChIJsRHWhFq5woARBII6NXgcv2E,"establishment,point_of_interest",90027,"1816 1⁄2 n. vermont ave,Los Feliz,CA,90027",1,OK
+69,"3250 Adams Ave, San Diego, CA 92116, USA",32.7636666,-117.1236488,ROOFTOP,ChIJcxcMHlVU2YARZ2xZ7yOEozE,premise,92116,"3250 adams ave,San Diego,CA,",1,OK
+70,"1503 30th St, San Diego, CA 92102, USA",32.7214638,-117.1300141,ROOFTOP,ChIJPZSmL35T2YARbd5Oc9FiRa8,premise,92102,"1503 30th st,San Diego,CA,",1,OK
+71,"1250 Prospect St, La Jolla, CA 92037, USA",32.8494483,-117.271724,ROOFTOP,ChIJHXxBP_wD3IARIfWs3I6Bgog,street_address,92037,"1250 prospect st,La Jolla,CA,",1,OK
+72,"4612 Park Blvd, San Diego, CA 92116, USA",32.7613468,-117.1464057,ROOFTOP,ChIJrWmeSR5V2YARQS5Ym9nRSjg,street_address,92116,"4612 park blvd,San Diego,CA,",1,OK
+73,"3926 30th St, San Diego, CA 92104, USA",32.74903270000001,-117.1303769,ROOFTOP,ChIJ_eT0k_ZU2YARVan1xHXD4EE,street_address,92104,"3926 30th st,San Diego,CA,",1,OK
+74,"2414 San Diego Ave, San Diego, CA 92110, USA",32.7517603,-117.1933573,ROOFTOP,ChIJu5It_d6q3oARcS43K1O7aWA,premise,92110,"2414 san diego ave,San Diego,CA,",1,OK
+75,"748 Fifth Ave, San Diego, CA 92101, USA",32.7130772,-117.1604245,ROOFTOP,ChIJp4xaOFhT2YARDJArR1SsO90,subpremise,92101,"748 fifth ave,San Diego,CA,92101",1,OK
+76,"2725 State St, Carlsbad, CA 92008, USA",33.1620501,-117.3510432,ROOFTOP,ChIJJWJqIwVy3IARKAOdYZvvvME,premise,92008,"2725 state st,Carlsbad,CA,92008",1,OK
+77,"948 N Western Ave, Chicago, IL 60622, USA",41.8989798,-87.6872884,ROOFTOP,ChIJXwuUfbLSD4gRNSsAr19tlsE,premise,60622,"948 n western ave,Chicago,IL,",1,OK
+78,"1270 N Milwaukee Ave, Chicago, IL 60622, USA",41.904696,-87.669038,ROOFTOP,ChIJE1KUwc_SD4gRj7apfNAFtKM,premise,60622,"1270 n milwaukee ave,Chicago,IL,",1,OK
+79,"226 W Chicago Ave, Chicago, IL 60654, USA",41.89679140000001,-87.6353086,ROOFTOP,ChIJWdnnGUvTD4gRnT13HCuo_Fo,street_address,60654,"226 w chicago ave,Chicago,IL,",1,OK
+80,"11 W Illinois St, Chicago, IL 60654, USA",41.890592,-87.6284866,ROOFTOP,ChIJofqm-K0sDogRMpoO085ymwc,street_address,60654,"11 w illinois st,Chicago,IL,",1,OK
+81,"2528 N California Ave, Chicago, IL 60647, USA",41.9275525,-87.6977823,ROOFTOP,ChIJh3rIXX3ND4gROn6HUZHLvzs,premise,60647,"2528 n california ave,Chicago,IL,",1,OK
+82,"565 W Randolph St, Chicago, IL 60661, USA",41.8842523,-87.6424535,ROOFTOP,ChIJC_EwbcYsDogRAq_-O504XsU,street_address,60661,"565 w randolph st,Chicago,IL,",1,OK
+83,"948 W Fulton Market, Chicago, IL 60607, USA",41.8869979,-87.65182469999999,ROOFTOP,ChIJkaBBldAsDogRHH01_9TlGiA,premise,60607,"948 w fulton market,Chicago,IL,",1,OK
+84,"694 N Milwaukee Ave, Chicago, IL 60642, USA",41.894203,-87.65254449999999,ROOFTOP,ChIJAesGZtMsDogR7fUecH93ym4,premise,60642,"694 n milwaukee ave,Chicago,IL,",1,OK
+85,"201 E Delaware Pl, Chicago, IL 60611, USA",41.8990174,-87.6216846,ROOFTOP,ChIJESEbN1TTD4gRBUAfiiM0JGA,premise,60611,"201 e delaware pl,Chicago,IL,",1,OK
+86,"3137 W Logan Blvd, Chicago, IL 60647, USA",41.927701,-87.7063979,ROOFTOP,ChIJzdVcvnrND4gRnnQcWtTXCCA,street_address,60647,"3137 W Logan Blvd,Chicago,IL,",1,OK
+87,"1726 S Racine Ave, Chicago, IL 60608, USA",41.858076,-87.656668,ROOFTOP,ChIJ5-o4t_8sDogRZAE0y0bbZTk,premise,60608,"1726 s racine ave,Chicago,IL,",1,OK
+88,"2545 N Kedzie Ave, Chicago, IL 60647, USA",41.9277119,-87.7067453,ROOFTOP,ChIJj3DoonrND4gRiq7Mv5R5EF8,street_address,60647,"2545 n kedzie ave,Chicago,IL,",1,OK
+89,"2914 N Clark St, Chicago, IL 60657, USA",41.9353653,-87.647127,ROOFTOP,ChIJPzmQ9afTD4gR--JL1FER844,street_address,60657,"2914 n clark st,Chicago,IL,",1,OK
+90,"2800 W Logan Blvd, Chicago, IL 60647, USA",41.9289131,-87.6977361,ROOFTOP,ChIJ410tgH3ND4gRfHlHg6tjVlc,premise,60647,"2800 w logan blvd,Chicago,IL,",1,OK
+91,"660 W Lake St, Chicago, IL 60661, USA",41.8858299,-87.6451549,ROOFTOP,ChIJl4qjZM8sDogRYJuCpeZocOE,street_address,60661,"660 w lake st,Chicago,IL,",1,OK
+92,"1802 S Allport St, Chicago, IL 60608, USA",41.8577429,-87.6578894,ROOFTOP,ChIJ4YI32f8sDogR1YWzpwXBeMo,premise,60608,"1802 s allport st,Chicago,IL,",1,OK
+93,"459 N Ogden Ave, Chicago, IL 60642, USA",41.8905021,-87.6591728,ROOFTOP,ChIJ7buh8yktDogRZn08eRCNeyc,premise,60642,"459 n ogden ave,Chicago,IL,",1,OK
+94,"2548 N Southport Ave, Chicago, IL 60614, USA",41.9284509,-87.66360660000001,ROOFTOP,ChIJASdEg_vSD4gRBT3aBBq7-KI,premise,60614,"2548 n southport ave,Chicago,IL,",1,OK
+95,"300 Santana Row, San Jose, CA 95128, USA",37.322865,-121.9476437,ROOFTOP,ChIJNeR34h_Lj4AR0HCMZck92xU,street_address,95128,"300 santana row,San Jose,CA,",1,OK
+96,"632 Emerson St, Palo Alto, CA 94301, USA",37.4433231,-122.161034,ROOFTOP,ChIJEwkqRjq7j4ARCVX6ioksxZ4,premise,94301,"632 emerson st,Palo Alto,CA,",1,OK
+97,"2250 Chestnut St, San Francisco, CA 94123, USA",37.8004125,-122.4404725,ROOFTOP,ChIJ_zbYm9aAhYAR2FDmEJLgIxk,street_address,94123,"2250 Chestnut St,San Francisco,CA,",1,OK
+98,"1548 Stockton St, San Francisco, CA 94133, USA",37.800124,-122.4088995,ROOFTOP,ChIJE3cSbPGAhYARZu3WJEd4X80,premise,94133,"1548 Stockton St,San Francisco,CA,",1,OK
+99,"741 Valencia St, San Francisco, CA 94110, USA",37.7609623,-122.4213427,ROOFTOP,ChIJhc_eID1-j4AR88Qut0xI0Z0,street_address,94110,"741 Valencia St,San Francisco,CA,",1,OK
+100,"52 E Santa Clara St, San Jose, CA 95113, USA",37.3366009,-121.8892083,ROOFTOP,ChIJz7vz57zMj4AR66YKpveK7v4,street_address,95113,"52 e santa clara st,San Jose,CA,",1,OK
+101,"25 W San Fernando St, San Jose, CA 95113, USA",37.3342803,-121.8897689,ROOFTOP,ChIJ895uV7vMj4ARotK7CscA9To,premise,95113,"25 w san fernando st,San Jose,CA,",1,OK
+102,"1541 Pacific Ave ste b, Santa Cruz, CA 95060, USA",36.9760848,-122.0272288,ROOFTOP,EjExNTQxIFBhY2lmaWMgQXZlIHN0ZSBiLCBTYW50YSBDcnV6LCBDQSA5NTA2MCwgVVNBIiEaHwoWChQKEgnTT1leL0COgBGWJL-yqCMJTRIFc3RlIGI,subpremise,95060,"1541 pacific ave ste b,Santa Cruz,CA,",1,OK
+103,"Dolores Street, between 5th and, 6th Ave, Carmel-By-The-Sea, CA 93923, USA",36.5560319,-121.9230479,GEOMETRIC_CENTER,ChIJj01ByGrmjYART2gPov_ATuk,"establishment,food,point_of_interest,restaurant",93923,"dolores street, between 5th and, 6th ave,Carmel,CA,",1,OK
+104,"3627 San Pablo Ave, Emeryville, CA 94608, USA",37.8277434,-122.2790067,ROOFTOP,ChIJ2zGGrxF-hYARpfWJ-Qe6T88,street_address,94608,"3627 san pablo ave,Emeryville,CA,",1,OK
+105,"72 S 1st St, San Jose, CA 95113, USA",37.3349854,-121.8894297,ROOFTOP,ChIJ8ftho7zMj4ARg1dbMxJfb9g,street_address,95113,"72 S 1st St,San Jose,CA,",1,OK
+106,"7 Sanborn Ct, Somerville, MA 02143, USA",42.3799783,-71.0945205,ROOFTOP,ChIJ7Q5R-cpw44kRmi7NtzZF5Qc,street_address,02143,"7 Sanborn Ct, Somerville, MA 02143",1,OK
+107,"3 Beacon St, Somerville, MA 02143, USA",42.3745431,-71.1015067,ROOFTOP,ChIJU-2LjUt344kR486cLXqzd0s,subpremise,02143,"3 Beacon St, Somerville, MA 02143",1,OK
+108,"170 W Broadway, Boston, MA 02127, USA",42.3405077,-71.0528643,ROOFTOP,ChIJ84VDHmN644kRa4wOxiUTZHA,premise,02127,"170 W Broadway,Boston,MA,",1,OK
+109,"292 Massachusetts Ave, Cambridge, MA 02139, USA",42.3620629,-71.09839389999999,ROOFTOP,ChIJQ65n21R344kRtK2GlqzqtD8,street_address,02139,"292 Massachusetts Ave,Cambridge,MA,",1,OK
+110,"21 Drydock Ave, Boston, MA 02210, USA",42.3444358,-71.0310592,ROOFTOP,ChIJJf9Hl55644kRR-VJrWsQKwI,street_address,02210,"21 Drydock Ave,Boston ,MA,",1,OK
+111,"500 Commonwealth Avenue, Boston, MA 02215, USA",42.3486282,-71.0952228,ROOFTOP,ChIJgTNDMB1644kRTPa3In5Bb0k,street_address,02215,"500 Commonwealth Ave ,Boston,MA,",1,OK
+112,"52 Church St, Cambridge, MA 02138, USA",42.3739749,-71.1205932,ROOFTOP,ChIJVXpwnEJ344kR0I17SiudB5g,street_address,02138,"52 Church St,Cambridge,MA,",1,OK
+113,"175 Rivers Edge Dr, Medford, MA 02155, USA",42.4099337,-71.07549480000002,ROOFTOP,ChIJ8zZj4llx44kRnNvbYtBakH8,street_address,02155,"175 Rivers Edge Drive,Medford,MA,",1,OK
+114,"69 Bromfield St, Boston, MA 02108, USA",42.3570841,-71.0608912,ROOFTOP,ChIJR7MSUINw44kRme0v8ct6xxI,street_address,02108,"69 Bromfield St,Boston,MA,",1,OK
+115,"514 Union St, Brooklyn, NY 11215, USA",40.678507,-73.98701,ROOFTOP,ChIJzdPJsFVawokR_EuNiiYFJBg,street_address,11215,"514 UNION ST. ,Brooklyn,NY,",1,OK
+116,"29 E 2nd St, New York, NY 10003, USA",40.72491340000001,-73.9907851,ROOFTOP,ChIJcaG97oRZwokR26pHCNoCCqc,premise,10003,"29 E. 2ND ST.,New York,NY,",1,OK
+117,"1 W 3rd St, New York, NY 10012, USA",40.7280068,-73.99492339999999,ROOFTOP,ChIJq3l1CZBZwokRCyBbGNw0QTE,street_address,10012,"1 W. 3RD ST.,New York,NY,",1,OK
+118,"59 Grand St, New York, NY 10013, USA",40.722135,-74.0034907,ROOFTOP,ChIJ68QhoItZwokRLrM0qCfKDA4,street_address,10013,"59 GRAND ST.,New York,NY,",1,OK
+119,"195 Bedford Ave, Brooklyn, NY 11211, USA",40.7173431,-73.9580225,ROOFTOP,ChIJv49b511ZwokRRUYs0dAhgn0,premise,11211,"195 BEDFORD AVE.,Brooklyn,NY,",1,OK
+120,"510 Hudson St, New York, NY 10014, USA",40.7334379,-74.0061358,ROOFTOP,ChIJl-qbVpNZwokRAQmfqD26cuY,subpremise,10014,"510 HUDSON ST. ,New York,NY,",1,OK
+121,"371 Broome St, New York, NY 10013, USA",40.720053,-73.9962548,ROOFTOP,ChIJp1Mo9YhZwokRrhcVB9ics5Q,premise,10013,"371 Broome St ,New York,NY,",1,OK
+122,"45 W 35th St, New York, NY 10001, USA",40.750143,-73.9859914,ROOFTOP,ChIJO12OeKlZwokRiHUM4LfCsT0,street_address,10001,"45 W. 35TH ST.,New York,NY,",1,OK
+123,"444 Park Ave S, New York, NY 10016, USA",40.74484220000001,-73.9833321,ROOFTOP,ChIJjch8-adZwokRMQle5LlufCA,premise,10016,"444 PARK AVE S. ,New York,NY,",1,OK
+124,"127 Loisaida Ave, New York, NY 10009, USA",40.72489119999999,-73.9785797,ROOFTOP,ChIJD-TgX3dZwokRWsx4PISVWUk,street_address,10009,"127 Loisaida Ave,New York,NY,",1,OK
+125,"4216 Oak Lawn Ave, Dallas, TX 75219, USA",32.8201727,-96.8019635,ROOFTOP,ChIJ72JxRNueToYRJYaEsxITtqU,subpremise,75219,"4216 Oak Lawn Ave, Dallas, TX",1,OK
+126,,,,,,,,"3858 Oak Lawn Ave #470, Dallas, TX",0,REQUEST_DENIED
+127,"2912 N Henderson Ave, Dallas, TX 75206, USA",32.8206309,-96.78464269999999,ROOFTOP,ChIJk9qAXSSfToYR8p922sGSvNg,premise,75206,"2912 N. Henderson Ave, Dallas, TX",1,OK
+128,"1617 Hi Line Dr #395, Dallas, TX 75207, USA",32.7952162,-96.8184364,ROOFTOP,EisxNjE3IEhpIExpbmUgRHIgIzM5NSwgRGFsbGFzLCBUWCA3NTIwNywgVVNBIh8aHQoWChQKEgl_8AzbTplOhhFXUSpHNZxF3hIDMzk1,subpremise,75207,"1617 Hi Line Dr. Unit 395, Dallas, TX",1,OK
+129,"1914 E 6th St ste c, Austin, TX 78702, USA",30.2616895,-97.7215351,ROOFTOP,EioxOTE0IEUgNnRoIFN0IHN0ZSBjLCBBdXN0aW4sIFRYIDc4NzAyLCBVU0EiIRofChYKFAoSCWvcOUG2tUSGEbUcgp9XHfLSEgVzdGUgYw,subpremise,78702,"1914 E 6th St ste c, Austin, TX 78702",1,OK
+130,"2027 Anchor Ln, Austin, TX 78723, USA",30.2878338,-97.70344399999999,ROOFTOP,ChIJN5LHY-O1RIYRLhqeA9WRwhY,premise,78723,"2027 Anchor Ln, Austin, TX 78723",1,OK

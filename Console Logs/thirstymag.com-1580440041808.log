@@ -1,0 +1,407 @@
+Navigated to http://thirstymag.com/margarita-day/nyc/
+jquery-migrate.min.js:2 JQMIGRATE: Migrate is installed, version 1.4.1
+(index):1 A cookie associated with a cross-site resource at http://services.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://www.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://search.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://analytics.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://mail.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://play.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://mail.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://adssettings.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://contacts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://ogs.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://pay.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://pay.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://smartlock.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://search.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://developers.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://cloud.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://console.cloud.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://console.developers.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://admin.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://admin.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://ads.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://ads.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://myaccount.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://myaccount.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://calendar.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://docs.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://www.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://www.googleadservices.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+VM2069 full-scripts.6.1.6.js:2 23423
+VM2102 conversion.js:53 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+(anonymous) @ VM2102 conversion.js:53
+(anonymous) @ VM2102 conversion.js:53
+(anonymous) @ VM2102 conversion.js:53
+VM2075 wp-google-maps-pro.min.js:1 [Deprecation] getCurrentPosition() and watchPosition() no longer work on insecure origins. To use this feature, you should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.
+getCurrentPosition @ VM2075 wp-google-maps-pro.min.js:1
+getCurrentPosition @ VM2075 wp-google-maps-pro.min.js:1
+watchPosition @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.initUserLocationMarker @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ VM2075 wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ VM2076 core.js:666
+InitMap @ VM2076 core.js:159
+(anonymous) @ VM2076 core.js:512
+i @ VM2061 jquery.js:2
+fireWith @ VM2061 jquery.js:2
+ready @ VM2061 jquery.js:2
+J @ VM2061 jquery.js:2
+VM2061 jquery.js:2 [Violation] 'DOMContentLoaded' handler took 169ms
+[Violation] Forced reflow while executing JavaScript took 99ms
+(index):1 A cookie associated with a resource at http://doubleclick.net/ was set with `SameSite=None` but without `Secure`. A future release of Chrome will only deliver cookies marked `SameSite=None` if they are also marked `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5633521622188032.
+VM2075 wp-google-maps-pro.min.js:1 1 "Only secure origins are allowed (see: https://goo.gl/Y0ZkNV)."
+(anonymous) @ VM2075 wp-google-maps-pro.min.js:1
+VM2075 wp-google-maps-pro.min.js:1 1 "Only secure origins are allowed (see: https://goo.gl/Y0ZkNV)."
+(anonymous) @ VM2075 wp-google-maps-pro.min.js:1
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+qk @ VM2109 directions.js:129
+(anonymous) @ VM2068 js:238
+(index):1 Access to XMLHttpRequest at 'https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO' from origin 'http://thirstymag.com' has been blocked by CORS policy: Request header field x-wp-nonce is not allowed by Access-Control-Allow-Headers in preflight response.
+VM2075 wp-google-maps-pro.min.js:1 Uncaught Error
+    at Object.params.error.params.error (VM2075 wp-google-maps-pro.min.js:1)
+    at i (VM2061 jquery.js:2)
+    at Object.fireWith [as rejectWith] (VM2061 jquery.js:2)
+    at x (VM2061 jquery.js:4)
+    at XMLHttpRequest.c (VM2061 jquery.js:4)
+params.error.params.error @ VM2075 wp-google-maps-pro.min.js:1
+i @ VM2061 jquery.js:2
+fireWith @ VM2061 jquery.js:2
+x @ VM2061 jquery.js:4
+c @ VM2061 jquery.js:4
+XMLHttpRequest.send (async)
+send @ VM2061 jquery.js:4
+ajax @ VM2061 jquery.js:4
+WPGMZA.RestAPI.call @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+(anonymous) @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ VM2075 wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ VM2076 core.js:666
+InitMap @ VM2076 core.js:159
+(anonymous) @ VM2076 core.js:512
+i @ VM2061 jquery.js:2
+fireWith @ VM2061 jquery.js:2
+ready @ VM2061 jquery.js:2
+J @ VM2061 jquery.js:2
+VM2061 jquery.js:4 GET https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO net::ERR_FAILED
+send @ VM2061 jquery.js:4
+ajax @ VM2061 jquery.js:4
+WPGMZA.RestAPI.call @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+(anonymous) @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ VM2075 wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ VM2076 core.js:666
+InitMap @ VM2076 core.js:159
+(anonymous) @ VM2076 core.js:512
+i @ VM2061 jquery.js:2
+fireWith @ VM2061 jquery.js:2
+ready @ VM2061 jquery.js:2
+J @ VM2061 jquery.js:2
+VM2061 jquery.js:4 XHR failed loading: GET "https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO".
+send @ VM2061 jquery.js:4
+ajax @ VM2061 jquery.js:4
+WPGMZA.RestAPI.call @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ VM2075 wp-google-maps-pro.min.js:1
+(anonymous) @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ VM2075 wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ VM2075 wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ VM2076 core.js:666
+InitMap @ VM2076 core.js:159
+(anonymous) @ VM2076 core.js:512
+i @ VM2061 jquery.js:2
+fireWith @ VM2061 jquery.js:2
+ready @ VM2061 jquery.js:2
+J @ VM2061 jquery.js:2
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+lW @ VM2117 onion.js:30
+(anonymous) @ VM2117 onion.js:35
+VM2107 util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ VM2107 util.js:45
+nz @ VM2107 util.js:45
+_.dE @ VM2107 util.js:139
+lW @ VM2117 onion.js:30
+(anonymous) @ VM2117 onion.js:35
+(index):1 A cookie associated with a cross-site resource at http://www.facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+VM2069 full-scripts.6.1.6.js:5 ready for rock
+Navigated to http://thirstymag.com/margarita-day/nyc/
+jquery-migrate.min.js:2 JQMIGRATE: Migrate is installed, version 1.4.1
+(index):1 A cookie associated with a cross-site resource at http://services.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://www.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://search.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://analytics.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://mail.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://play.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://mail.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://adssettings.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://contacts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://ogs.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://pay.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://pay.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://smartlock.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://search.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://developers.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://cloud.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://console.cloud.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://console.developers.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://admin.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://admin.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://ads.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://ads.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://myaccount.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://myaccount.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://calendar.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://docs.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://www.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://www.googleadservices.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+full-scripts.6.1.6.js:1 23423
+conversion.js:53 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+(anonymous) @ conversion.js:53
+(anonymous) @ conversion.js:53
+(anonymous) @ conversion.js:53
+wp-google-maps-pro.min.js:1 [Deprecation] getCurrentPosition() and watchPosition() no longer work on insecure origins. To use this feature, you should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.
+getCurrentPosition @ wp-google-maps-pro.min.js:1
+getCurrentPosition @ wp-google-maps-pro.min.js:1
+watchPosition @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.initUserLocationMarker @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleMap @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ core.js:666
+InitMap @ core.js:159
+(anonymous) @ core.js:512
+i @ jquery.js:2
+fireWith @ jquery.js:2
+ready @ jquery.js:2
+J @ jquery.js:2
+jquery.js:2 [Violation] 'DOMContentLoaded' handler took 181ms
+[Violation] Forced reflow while executing JavaScript took 85ms
+(index):1 A cookie associated with a resource at http://doubleclick.net/ was set with `SameSite=None` but without `Secure`. A future release of Chrome will only deliver cookies marked `SameSite=None` if they are also marked `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5633521622188032.
+wp-google-maps-pro.min.js:1 1 "Only secure origins are allowed (see: https://goo.gl/Y0ZkNV)."
+(anonymous) @ wp-google-maps-pro.min.js:1
+wp-google-maps-pro.min.js:1 1 "Only secure origins are allowed (see: https://goo.gl/Y0ZkNV)."
+(anonymous) @ wp-google-maps-pro.min.js:1
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+qk @ directions.js:129
+(anonymous) @ js?v=quarterly&language=en&key=AIzaSyD4kgeckB_Oy659JjptvSM8DbgTKeTVJ3E&libraries=geometry%2Cplaces%2Cvisualization&ver=5.3.2:238
+(index):1 Access to XMLHttpRequest at 'https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO' from origin 'http://thirstymag.com' has been blocked by CORS policy: Request header field x-wp-nonce is not allowed by Access-Control-Allow-Headers in preflight response.
+wp-google-maps-pro.min.js:1 Uncaught Error
+    at Object.params.error.params.error (wp-google-maps-pro.min.js:1)
+    at i (jquery.js:2)
+    at Object.fireWith [as rejectWith] (jquery.js:2)
+    at x (jquery.js:4)
+    at XMLHttpRequest.c (jquery.js:4)
+params.error.params.error @ wp-google-maps-pro.min.js:1
+i @ jquery.js:2
+fireWith @ jquery.js:2
+x @ jquery.js:4
+c @ jquery.js:4
+XMLHttpRequest.send (async)
+send @ jquery.js:4
+ajax @ jquery.js:4
+WPGMZA.RestAPI.call @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ wp-google-maps-pro.min.js:1
+(anonymous) @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ core.js:666
+InitMap @ core.js:159
+(anonymous) @ core.js:512
+i @ jquery.js:2
+fireWith @ jquery.js:2
+ready @ jquery.js:2
+J @ jquery.js:2
+jquery.js:4 GET https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO net::ERR_FAILED
+send @ jquery.js:4
+ajax @ jquery.js:4
+WPGMZA.RestAPI.call @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ wp-google-maps-pro.min.js:1
+(anonymous) @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ core.js:666
+InitMap @ core.js:159
+(anonymous) @ core.js:512
+i @ jquery.js:2
+fireWith @ jquery.js:2
+ready @ jquery.js:2
+J @ jquery.js:2
+jquery.js:4 XHR failed loading: GET "https://thirstymag.com/wp-json/wpgmza/v1/markers/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMopR0gEJFGeUgsSKgYLRsbVKtQCWBhBO".
+send @ jquery.js:4
+ajax @ jquery.js:4
+WPGMZA.RestAPI.call @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.fetchMarkers @ wp-google-maps-pro.min.js:1
+WPGMZA.ProMap.onInit @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap.onInit @ wp-google-maps-pro.min.js:1
+(anonymous) @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher._triggerListeners @ wp-google-maps-pro.min.js:1
+WPGMZA.EventDispatcher.dispatchEvent @ wp-google-maps-pro.min.js:1
+WPGMZA.GoogleProMap @ wp-google-maps-pro.min.js:1
+WPGMZA.Map.createInstance @ wp-google-maps-pro.min.js:1
+MYMAP.<computed>.init @ core.js:666
+InitMap @ core.js:159
+(anonymous) @ core.js:512
+i @ jquery.js:2
+fireWith @ jquery.js:2
+ready @ jquery.js:2
+J @ jquery.js:2
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+lW @ onion.js:30
+(anonymous) @ onion.js:35
+util.js:45 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+(anonymous) @ util.js:45
+nz @ util.js:45
+_.dE @ util.js:139
+lW @ onion.js:30
+(anonymous) @ onion.js:35
+[Violation] Forced reflow while executing JavaScript took 34ms
+(index):1 A cookie associated with a cross-site resource at http://www.facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+full-scripts.6.1.6.js:1 ready for rock
+jquery.js:4 XHR finished loading: GET "http://thirstymag.com/wp-content/themes/jupiter/assets/js/plugins/async/min/jquery.flexslider.js".
+send @ jquery.js:4
+ajax @ jquery.js:4
+$.getCachedScript @ full-scripts.6.1.6.js:1
+(anonymous) @ full-scripts.6.1.6.js:1
+MK.core.loadDependencies @ full-scripts.6.1.6.js:1
+(anonymous) @ full-scripts.6.1.6.js:1
+dispatch @ jquery.js:3
+r.handle @ jquery.js:3
+load (async)
+add @ jquery.js:3
+a.event.add @ jquery-migrate.min.js:2
+(anonymous) @ jquery.js:3
+each @ jquery.js:2
+each @ jquery.js:2
+ra @ jquery.js:3
+on @ jquery.js:3
+(anonymous) @ full-scripts.6.1.6.js:1
+(anonymous) @ full-scripts.6.1.6.js:1
+(anonymous) @ full-scripts.6.1.6.js:1

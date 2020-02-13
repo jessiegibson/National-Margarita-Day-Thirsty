@@ -1,0 +1,132 @@
+Id,map_id,Market,address,description,pic,link,Icon,lat,lng,anim,title,Infoopen,category,approved,retina,type,did,sticky,other_data,,Address,city,state,zip,Phone Number,Website,Instagram,Facebook,Google Place id
+0,2,NYC,"221 smith st.,Brooklyn,NY,",,,,,40.6842838,-73.9919281,,leyenda,,,1,1,,,,,,221 smith st.,Brooklyn,NY,,,,,,ChIJS9ai_VBawokRH0qK9j47fDY
+1,2,NYC,"4 bleeker st.,New York,NY,",,,,,40.7252328,-73.9927354,,ghost donkey,,,1,,,,,,,4 bleeker st.,New York,NY,,,,,,ChIJd3zZEIVZwokRwk41a_YpFbw
+2,2,NYC,"197 2nd ave.,New York,NY,",,,,,40.7313711,-73.9860217,,black emporer,,,1,,,,,,,197 2nd ave.,New York,NY,,,,,,ChIJcX7ph55ZwokRAg3ynS2ulSQ
+3,2,NYC,"18 spring st.,New York,NY,",,,,,40.7213105,-73.9950142,,mothers ruin,,,1,,,,,,,18 spring st.,New York,NY,,,,,,ChIJh-vLpohZwokRoSze1DIWPrw
+4,2,NYC,"105 1st ave.,New York,NY,",,,,,40.7267784,-73.9862398,,mister paradise,,,1,,,,,,,105 1st ave.,New York,NY,,,,,,ChIJV3pG2ZxZwokRuJG6aGBQAu8
+5,2,NYC,"94 avenue a,New York,NY,",,,,,40.7254892,-73.9836739,,august laura,,,1,,,,,,,94 avenue a,New York,NY,,,,,,ChIJjRS-soJZwokRMfwZSuhwbwY
+6,2,NYC,"128 w houston,New York,NY,",,,,,40.72787,-74.001067,,bar moga,,,1,,,,,,,128 w houston,New York,NY,,,,,,ChIJRy7Z-I1ZwokRqDGo6pg8SSY
+7,2,NYC,"190 w. 4th st.,New York,NY,",,,,,40.7326969,-74.0022796,,the spaniard,,,1,,,,,,,190 w. 4th st.,New York,NY,,,,,,ChIJTUPrjJNZwokRRE5RaLsModY
+8,2,NYC,"123 lexington ave.,New York,NY,",,,,,40.7427536,-73.9820674,,broken shaker,,,1,,,,,,,123 lexington ave.,New York,NY,,,,,,ChIJc8X-MghZwokRsWkiO-BosEs
+9,2,NYC,"2122 beekman pl.,Brooklyn,NY,",,,,,40.6599147,-73.9608634,,erv's on beekman,,,1,,,,,,,2122 beekman pl.,Brooklyn,NY,,,,,,ChIJy7DJIhNbwokR3WwERQzMcvI
+10,12,Miami,"2727 indian creek dr,Miami,FL,33140",,,,,25.8045687,-80.1264365,,27 restaurant,,,1,,,,,,,2727 indian creek dr,Miami,FL,33140,,,,,ChIJa93I_GOz2YgRG6Oo0508JZk
+11,12,Miami,"437 sw 2nd st,Miami,FL,33130",,,,,25.7721277,-80.2017376,,casa florida,,,1,,,,,,,437 sw 2nd st,Miami,FL,33130,,,,,ChIJRbo3qpG22YgRT-fT9qTtFuI
+12,12,Miami,"820 Alton Rd, Miami Beach, FL 33139",,,,,,,,macchialina,,,1,,,,,,,820 Alton Rd,Miami Beach,FL,,,,,,
+13,12,Miami,"3456 n miami ave,Miami,FL,33127",,,,,25.8092934,-80.195584,,the sylvester,,,1,,,,,,,3456 n miami ave,Miami,FL,33127,,,,,ChIJY32S0VOx2YgR0D7suXEz86w
+14,12,Miami,"971 sw 8th st,Miami,FL,33130",,,,,25.7662659,-80.2104537,,cafe la trova,,,1,,,,,,,971 sw 8th st,Miami,FL,33130,,,,,ChIJHWa7OvO22YgRaOkmTFM9oqk
+15,12,Miami,"1690 collins ave,Miami Beach,FL,33139",,,,,25.7921705,-80.1300788,,the regent cocktail club,,,1,,,,,,,1690 collins ave,Miami Beach,FL,33139,,,,,ChIJvXwBFZu02YgRHGamIaXuuxg
+16,12,Miami,"75 se 6th st,Miami,FL,33131",,,,,25.7684072,-80.1910373,,better days,,,1,,,,,,,75 se 6th st,Miami,FL,33131,,,,,ChIJcflkMoO22YgRcdXL6VzdPpw
+17,12,Miami,"251 nw 25th st,Miami,FL,33137",,,,,25.8008908,-80.2002122,,kyu,,,1,,,,,,,251 nw 25th st,Miami,FL,33137,,,,,ChIJAb4JXbK22YgRB8YhLBnqVvs
+18,12,Miami,"237 20th st ste b,Miami Beach,FL,33139",,,,,25.7959836,-80.1297409,,sweet liberty,,,1,,,,,,,237 20th st ste b,Miami Beach,FL,33139,,,,,Ei0yMzcgMjB0aCBTdCBzdGUgYiwgTWlhbWkgQmVhY2gsIEZMIDMzMTM5LCBVU0EiIRofChYKFAoSCdPxqOWctNmIEQFoR7meRPVCEgVzdGUgYg
+19,12,Miami,"2637 n miami ave,Miami,FL,33127",,,,,25.802335,-80.194733,,beaker & gray,,,1,,,,,,,2637 n miami ave,Miami,FL,33127,,,,,ChIJ66W366y22YgRYUOjexrKJ98
+20,12,Miami,"500 brickell ave ste d,Miami,FL,33131",,,,,25.7684072,-80.1910373,,baby jane,,,1,,,,,,,500 brickell ave ste d,Miami,FL,33131,,,,,Eiw1MDAgQnJpY2tlbGwgQXZlIHN0ZSBkLCBNaWFtaSwgRkwgMzMxMzEsIFVTQSIhGh8KFgoUChIJUYWUK4O22YgRj8geNv0V4fESBXN0ZSBk
+21,12,Miami,"2727 indian creek dr,Miami Beach,FL,33140",,,,,25.8045687,-80.1264365,,broken shaker,,,1,,,,,,,2727 indian creek dr,Miami Beach,FL,33140,,,,,ChIJa93I_GOz2YgRG6Oo0508JZk
+22,12,Miami,"207 ne 1st st,Miami,FL,33132",,,,,25.7753875,-80.1900783,,mama tried,,,1,,,,,,,207 ne 1st st,Miami,FL,33132,,,,,ChIJ4-6lY5622YgRQuqi-Y1KzUk
+23,8,Tampa,"205 westshore plaza,Tampa,FL,",,,,,27.9464828,-82.5265786,,besito mexican,,,1,,,,,,,205 westshore plaza,Tampa,FL,,,,,,ChIJYzGXJ_vCwogR9c3wkqLPfWw
+24,8,Tampa,"365 main st,Dunedin,FL,",,,,,28.0115872,-82.7882815,,casa tina,,,1,,,,,,,365 main st,Dunedin,FL,,,,,,ChIJq94IrnzxwogRVuGtp39gMBA
+25,8,Tampa,"911 central ave,St Petersburg,FL,",,,,,27.771326,-82.6471811,,buya ramen,,,1,,,,,,,911 central ave,St Petersburg,FL,,,,,,ChIJfc8AuYDhwogRh0wejmDOy7o
+26,8,Tampa,"1704 E 7th Ave,Tampa,FL,",,,,,27.960501,-82.4402067,,big easy bar,,,1,,,,,,,1704 E 7th Ave,Tampa,FL,,,,,,ChIJzcz0VFDEwogRQyj-fVcCZ5E
+27,8,Tampa,"1327 e 7th ave,Tampa,FL,",,,,,27.9600238,-82.4444005,,the bricks,,,1,,,,,,,1327 e 7th ave,Tampa,FL,,,,,,ChIJp2kCXFrEwogRD6kVDlmAjyw
+28,8,Tampa,"633 n franklin st,Tampa,FL,",,,,,27.9495214,-82.458541,,cws gin joint,,,1,,,,,,,633 n franklin st,Tampa,FL,,,,,,ChIJGQcm04vEwogRE8MazWs3WFU
+29,6,Texas,"1878 sylvan ave ste e150,Dallas,TX,75208",,,,,32.7691775,-96.8355212,,jettison,,,1,,,,,,,1878 sylvan ave ste e150,Dallas,TX,75208,,,,,EisxODc4IFN5bHZhbiBBdmUgZTE1MCwgRGFsbGFzLCBUWCA3NTIwOCwgVVNBIiAaHgoWChQKEglJrzUE2JtOhhFAuB5Ay4-MjBIEZTE1MA
+30,6,Texas,"2010 greenville ave,Dallas,TX,75206",,,,,32.8142496,-96.7699138,,gung ho,,,1,,,,,,,2010 greenville ave,Dallas,TX,75206,,,,,EioyMDEwIEdyZWVudmlsbGUgQXZlLCBEYWxsYXMsIFRYIDc1MjA2LCBVU0EiGxIZChQKEgn1d2PSSZ9OhhE_757uzbN8ahDaDw
+31,6,Texas,"2008 greenville ave,Dallas,TX,75206",,,,,32.8141897,-96.7700374,,hg sply,,,1,,,,,,,2008 greenville ave,Dallas,TX,75206,,,,,ChIJpfK7zUmfToYRxUePOwr3PJk
+32,6,Texas,"2614 boll st,Dallas,TX,75204",,,,,32.7979763,-96.8019654,,bowen house,,,1,,,,,,,2614 boll st,Dallas,TX,75204,,,,,ChIJhRz-DS6ZToYRmhSwyDjFXaI
+33,6,Texas,"3090 oliver st ste b 110,Dallas,TX,75205",,,,,32.8195226,-96.7890829,,hero,,,1,,,,,,,3090 oliver st ste b 110,Dallas,TX,75205,,,,,Ei8zMDkwIE9saXZlciBTdCBzdGUgYiAxMTAsIERhbGxhcywgVFggNzUyMDUsIFVTQSIqGigKGxIZChQKEgkXnNv5Jp9OhhHolddWyE0kmhCSGBIJc3RlIGIgMTEw
+34,6,Texas,"604 n tyler st,Dallas,TX,75208",,,,,32.7496496,-96.8372355,,tiny victories,,,1,,,,,,,604 n tyler st,Dallas,TX,75208,,,,,ChIJZw5tpimaToYR7uCXR71VgZY
+35,6,Texas,"1617 hi line dr,Dallas,TX,75207",,,,,32.7952162,-96.8184364,,wheelhouse,,,1,,,,,,,1617 hi line dr,Dallas,TX,75207,,,,,ChIJf_AM206ZToYRV1EqRzWcRd4
+36,6,Texas,"605 brazos st,Austin,TX,78701",,,,,30.2681716,-97.7410422,,firehouse lounge,,,1,,,,,,,605 brazos st,Austin,TX,78701,,,,,ChIJ7XFDZae1RIYRsc65KjI3yV8
+37,6,Texas,"307 w 5th st,Austin,TX,78701",,,,,30.2676574,-97.7462962,,roosevelt room,,,1,,,,,,,307 w 5th st,Austin,TX,78701,,,,,ChIJo_QYJQm1RIYRyDuOw3B68LU
+38,6,Texas,"3100 fannin st #115,Houston,TX,77004",,,,,,,,two headed dog,,,1,,,,,,,3100 fannin st #115,Houston,TX,77004,,,,,
+39,6,Texas,"5802 fulton st,Houston,TX,77009",,,,,29.8118875,-95.3695423,,monkey's tail,,,1,,,,,,,5802 fulton st,Houston,TX,77009,,,,,ChIJ6y9GlvO4QIYRB5Ltia4wy6M
+40,6,Texas,"1010 banks st,Houston,TX,77006",,,,,29.7303325,-95.3916852,,grand prize,,,1,,,,,,,1010 banks st,Houston,TX,77006,,,,,ChIJ42lMYX6_QIYRzprOBN1XoMU
+41,6,Texas,"1919 greenville ave,Dallas,TX,75206",,,,,32.8141255,-96.7704645,,alamo club,,,1,,,,,,,1919 greenville ave,Dallas,TX,75206,,,,,ChIJVYFf1EmfToYRsJGZxeO1FW0
+42,6,Texas,"1530 main st,Dallas,TX,75201",,,,,32.7807089,-96.7984434,,midnight rambler,,,1,,,,,,,1530 main st,Dallas,TX,75201,,,,,ChIJf5T2uBiZToYRUxrX1NaqqEc
+43,6,Texas,"2714 elm st,Dallas,TX,75226",,,,,32.784475,-96.784087,,armoury de,,,1,,,,,,,2714 elm st,Dallas,TX,75226,,,,,ChIJBboICt2YToYRT5-Yxnkkfts
+44,6,Texas,"1914 greenville ave,Dallas,TX,75206",,,,,32.8133152,-96.7700009,,leela's,,,1,,,,,,,1914 greenville ave,Dallas,TX,75206,,,,,ChIJofSNwkmfToYR8Ch0IhJcFpg
+45,6,Texas,"1915 greenville ave,Dallas,TX,75207",,,,,32.8139371,-96.7704949,,abv,,,1,,,,,,,1915 greenville ave,Dallas,TX,75207,,,,,ChIJ9VPK1kmfToYRV4jsf2GphCM
+46,6,Texas,"5855 maple ave ste 190,Dallas,TX,75235",,,,,32.8222142,-96.8381986,,maple landing,,,1,,,,,,,5855 maple ave ste 190,Dallas,TX,75235,,,,,Eio1ODU1IE1hcGxlIEF2ZSAjMTkwLCBEYWxsYXMsIFRYIDc1MjM1LCBVU0EiHxodChYKFAoSCTOjmQQfnE6GEaPFg56d4iOvEgMxOTA
+47,6,Texas,"400 crescent ct,Dallas,TX,75201",,,,,32.7945621,-96.8044675,,nobu,,,1,,,,,,,400 crescent ct,Dallas,TX,75201,,,,,ChIJl6ntIjCZToYRd6szccm4CQU
+48,6,Texas,"9028 garland rd,Dallas,TX,75218",,,,,32.8276979,-96.7088693,,lounge here,,,1,,,,,,,9028 garland rd,Dallas,TX,75218,,,,,ChIJ2TrMXZ6hToYRdwv144nrYqg
+49,6,Texas,"1601 main st,Dallas,TX,75201",,,,,32.7814061,-96.798312,,tower club,,,1,,,,,,,1601 main st,Dallas,TX,75201,,,,,ChIJcZyOsBiZToYRyRnwLzCtbGI
+50,3,SoCal,"1607 pacific ave,Venice,CA,90291",,,,,33.9874504,-118.4723025,,gran blanco,,,1,,,,,,,1607 pacific ave,Venice,CA,90291,,,,,ChIJo75YrLm6woAR3koFYdfjapM
+51,3,SoCal,"1263 w temple st,Los Angeles,CA,90026",,,,,34.0663995,-118.2541135,,thunderbolt,,,1,,,,,,,1263 w temple st,Los Angeles,CA,90026,,,,,ChIJsbO8FADHwoAR3TotU97dvNY
+52,3,SoCal,"1927 hillhurst ave,Los Angeles,CA,90027",,,,,34.1062223,-118.2877828,,big bar,,,1,,,,,,,1927 hillhurst ave,Los Angeles,CA,90027,,,,,ChIJZ-H-16_AwoARhR3kNED0pQo
+53,3,SoCal,"9010 melrose ave,West Hollywood,CA,90069",,,,,34.0805544,-118.3882164,,olivetta,,,1,,,,,,,9010 melrose ave,West Hollywood,CA,90069,,,,,ChIJYztQ2ai-woAR4xLrX5AMBSs
+54,3,SoCal,"416 w 8th st,Los Angeles,CA,90014",,,,,34.0448071,-118.2565653,,broken shaker,,,1,,,,,,,416 w 8th st,Los Angeles,CA,90014,,,,,ChIJE80IjrXHwoARhTtlH_xPbOQ
+55,3,SoCal,"7465 melrose ave,Los Angeles,CA,90046",,,,,34.0838389,-118.3527123,,melrose umbrella co,,,1,,,,,,,7465 melrose ave,Los Angeles,CA,90046,,,,,ChIJPeMRetO-woARGz-WsWAHF84
+56,3,SoCal,"12477 w washington blvd,Los Angeles,CA,90066",,,,,33.9970245,-118.4306542,,corner door,,,1,,,,,,,12477 w washington blvd,Los Angeles,CA,90066,,,,,ChIJHQr6Xma6woARItp8sGOf0L4
+57,3,SoCal,"107 e 6th st,Los Angeles,CA,90014",,,,,34.045111,-118.249511,,las perlas,,,1,,,,,,,107 e 6th st,Los Angeles,CA,90014,,,,,ChIJGx8ynDXGwoARe3k4ZzZlkjc
+58,3,SoCal,"1228 sunset blvd,Los Angeles,CA,90026",,,,,34.069022,-118.2507193,,bar henry,,,1,,,,,,,1228 sunset blvd,Los Angeles,CA,90026,,,,,ChIJ7ZWfTv7GwoARHKVpFTldsmY
+59,3,SoCal,"5221 hollywood blvd,Los Angeles,CA,90027",,,,,34.1019041,-118.3042997,,harvard & stone,,,1,,,,,,,5221 hollywood blvd,Los Angeles,CA,90027,,,,,ChIJmwKpJVe_woAR7lxkcwO_kj8
+60,3,SoCal,"5635 n figueroa st,Los Angeles,CA,90042",,,,,34.10962,-118.19328,,good housekeeping,,,1,,,,,,,5635 n figueroa st,Los Angeles,CA,90042,,,,,ChIJs-x-bhDEwoARYfFuRekls0s
+61,3,SoCal,"1540 sunset blvd,Los Angeles,CA,90026",,,,,34.0762828,-118.2567722,,lowboy,,,1,,,,,,,1540 sunset blvd,Los Angeles,CA,90026,,,,,ChIJqTYV6hzHwoARIpMQ_THQD4Y
+62,3,SoCal,"7360 beverly blvd,Los Angeles,CA,90036",,,,,34.0759024,-118.3503522,,petty cash,,,1,,,,,,,7360 beverly blvd,Los Angeles,CA,90036,,,,,ChIJf-s4aym5woAR6t2FCwKsDyU
+63,3,SoCal,"1115 e wardlow rd,Long Beach,CA,90807",,,,,33.8191142,-118.1780234,,roxannes,,,1,,,,,,,1115 e wardlow rd,Long Beach,CA,90807,,,,,ChIJNYP6Pb8z3YARalflJMIFHkI
+64,3,SoCal,"1117 e wardlow rd,Long Beach,CA,90807",,,,,33.819124,-118.1780956,,the exhibition room,,,1,,,,,,,1117 e wardlow rd,Long Beach,CA,90807,,,,,ChIJfx9AFr8z3YARldKGg2xIyPQ
+65,3,SoCal,"136 e anaheim st,Long Beach,CA,90813",,,,,33.78241,-118.1917222,,the grasshopper,,,1,,,,,,,136 e anaheim st,Long Beach,CA,90813,,,,,ChIJA-pAJEUx3YARy9y_gH9nBq0
+66,3,SoCal,"820 w 19th st,,Costa Mesa,CA,92627",,,,,33.6435623,-117.9328865,,casa,,,1,,,,,,,"820 w 19th st,",Costa Mesa,CA,92627,,,,,ChIJB6vzTXog3YAR62M8FCogYRQ
+67,3,SoCal,"891 baker st,Costa Mesa,CA,92626",,,,,33.6796832,-117.8940985,,the kitsch bar,,,1,,,,,,,891 baker st,Costa Mesa,CA,92626,,,,,ChIJ0yoQRRbf3IARIz7esHmbCA8
+68,3,SoCal,"1816 1⁄2 n. vermont ave,Los Feliz,CA,90027",,,,,34.1040603,-118.2915836,,pinky’s,,,1,,,,,,,1816 1⁄2 n. vermont ave,Los Feliz,CA,90027,,,,,ChIJsRHWhFq5woARBII6NXgcv2E
+69,3,SoCal,"3250 adams ave,San Diego,CA,",,,,,32.7636666,-117.1236488,,ska bar,,,1,,,,,,,3250 adams ave,San Diego,CA,,,,,,ChIJcxcMHlVU2YARZ2xZ7yOEozE
+70,3,SoCal,"1503 30th st,San Diego,CA,",,,,,32.7214638,-117.1300141,,kindred,,,1,,,,,,,1503 30th st,San Diego,CA,,,,,,ChIJPZSmL35T2YARbd5Oc9FiRa8
+71,3,SoCal,"1250 prospect st,La Jolla,CA,",,,,,32.8494483,-117.271724,,george’s at the cove,,,1,,,,,,,1250 prospect st,La Jolla,CA,,,,,,ChIJHXxBP_wD3IARIfWs3I6Bgog
+72,3,SoCal,"4612 park blvd,San Diego,CA,",,,,,32.7613468,-117.1464057,,park & rec,,,1,,,,,,,4612 park blvd,San Diego,CA,,,,,,ChIJrWmeSR5V2YARQS5Ym9nRSjg
+73,3,SoCal,"3926 30th st,San Diego,CA,",,,,,32.7490327,-117.1303769,,coin op,,,1,,,,,,,3926 30th st,San Diego,CA,,,,,,ChIJ_eT0k_ZU2YARVan1xHXD4EE
+74,3,SoCal,"2414 san diego ave,San Diego,CA,",,,,,32.7517603,-117.1933573,,tahona,,,1,,,,,,,2414 san diego ave,San Diego,CA,,,,,,ChIJu5It_d6q3oARcS43K1O7aWA
+75,3,SoCal,"748 fifth ave,San Diego,CA,92101",,,,,32.7130772,-117.1604245,,metl,,,1,,,,,,,748 fifth ave,San Diego,CA,92101,,,,,ChIJp4xaOFhT2YARDJArR1SsO90
+76,3,SoCal,"2725 state st,Carlsbad,CA,92008",,,,,33.1620501,-117.3510432,,campfire,,,1,,,,,,,2725 state st,Carlsbad,CA,92008,,,,,ChIJJWJqIwVy3IARKAOdYZvvvME
+77,7,Chicago,"948 n western ave,Chicago,IL,",,,,,41.8989798,-87.6872884,,sportsman’s,,,1,,,,,,,948 n western ave,Chicago,IL,,,,,,ChIJXwuUfbLSD4gRNSsAr19tlsE
+78,7,Chicago,"1270 n milwaukee ave,Chicago,IL,",,,,,41.904696,-87.669038,,neon wilderness,,,1,,,,,,,1270 n milwaukee ave,Chicago,IL,,,,,,ChIJE1KUwc_SD4gRj7apfNAFtKM
+79,7,Chicago,"226 w chicago ave,Chicago,IL,",,,,,41.8967914,-87.6353086,,good measure,,,1,,,,,,,226 w chicago ave,Chicago,IL,,,,,,ChIJWdnnGUvTD4gRnT13HCuo_Fo
+80,7,Chicago,"11 w illinois st,Chicago,IL,",,,,,41.890592,-87.6284866,,flora fauna,,,1,,,,,,,11 w illinois st,Chicago,IL,,,,,,ChIJofqm-K0sDogRMpoO085ymwc
+81,7,Chicago,"2528 n california ave,Chicago,IL,",,,,,41.9275525,-87.6977823,,good fortune,,,1,,,,,,,2528 n california ave,Chicago,IL,,,,,,ChIJh3rIXX3ND4gROn6HUZHLvzs
+82,7,Chicago,"565 w randolph st,Chicago,IL,",,,,,41.8842523,-87.6424535,,proxi,,,1,,,,,,,565 w randolph st,Chicago,IL,,,,,,ChIJC_EwbcYsDogRAq_-O504XsU
+83,7,Chicago,"948 w fulton market,Chicago,IL,",,,,,41.8869979,-87.6518247,,blind barber,,,1,,,,,,,948 w fulton market,Chicago,IL,,,,,,ChIJkaBBldAsDogRHH01_9TlGiA
+84,7,Chicago,"694 n milwaukee ave,Chicago,IL,",,,,,41.894203,-87.6525445,,dandy crown,,,1,,,,,,,694 n milwaukee ave,Chicago,IL,,,,,,ChIJAesGZtMsDogR7fUecH93ym4
+85,7,Chicago,"201 e delaware pl,Chicago,IL,",,,,,41.8990174,-87.6216846,,drumbar,,,1,,,,,,,201 e delaware pl,Chicago,IL,,,,,,ChIJESEbN1TTD4gRBUAfiiM0JGA
+86,7,Chicago,"3137 W Logan Blvd,Chicago,IL,",,,,,41.927701,-87.7063979,,merchant,,,1,,,,,,,3137 W Logan Blvd,Chicago,IL,,,,,,ChIJzdVcvnrND4gRnnQcWtTXCCA
+87,7,Chicago,"1726 s racine ave,Chicago,IL,",,,,,41.858076,-87.656668,,la luna,,,1,,,,,,,1726 s racine ave,Chicago,IL,,,,,,ChIJ5-o4t_8sDogRZAE0y0bbZTk
+88,7,Chicago,"2545 n kedzie ave,Chicago,IL,",,,,,41.9277119,-87.7067453,,young american,,,1,,,,,,,2545 n kedzie ave,Chicago,IL,,,,,,ChIJj3DoonrND4gRiq7Mv5R5EF8
+89,7,Chicago,"2914 n clark st,Chicago,IL,",,,,,41.9353653,-87.647127,,el nuevo,,,1,,,,,,,2914 n clark st,Chicago,IL,,,,,,ChIJPzmQ9afTD4gR--JL1FER844
+90,7,Chicago,"2800 w logan blvd,Chicago,IL,",,,,,41.9289131,-87.6977361,,mi tocaya,,,1,,,,,,,2800 w logan blvd,Chicago,IL,,,,,,ChIJ410tgH3ND4gRfHlHg6tjVlc
+91,7,Chicago,"660 w lake st,Chicago,IL,",,,,,41.8858299,-87.6451549,,moneygun,,,1,,,,,,,660 w lake st,Chicago,IL,,,,,,ChIJl4qjZM8sDogRYJuCpeZocOE
+92,7,Chicago,"1802 s allport st,Chicago,IL,",,,,,41.8577429,-87.6578894,,green room,,,1,,,,,,,1802 s allport st,Chicago,IL,,,,,,ChIJ4YI32f8sDogR1YWzpwXBeMo
+93,7,Chicago,"459 n ogden ave,Chicago,IL,",,,,,41.8905021,-87.6591728,,g&o,,,1,,,,,,,459 n ogden ave,Chicago,IL,,,,,,ChIJ7buh8yktDogRZn08eRCNeyc
+94,7,Chicago,"2548 n southport ave,Chicago,IL,",,,,,41.9284509,-87.6636066,,broken barrel,,,1,,,,,,,2548 n southport ave,Chicago,IL,,,,,,ChIJASdEg_vSD4gRBT3aBBq7-KI
+95,5,Bay Area,"300 santana row,San Jose,CA,",,,,,37.322865,-121.9476437,,tacolicious,,,1,,,,,,,300 santana row,San Jose,CA,,,,,,ChIJNeR34h_Lj4AR0HCMZck92xU
+96,5,Bay Area,"632 emerson st,Palo Alto,CA,",,,,,37.4433231,-122.161034,,tacolicious,,,1,,,,,,,632 emerson st,Palo Alto,CA,,,,,,ChIJEwkqRjq7j4ARCVX6ioksxZ4
+97,5,Bay Area,"2250 Chestnut St,San Francisco,CA,",,,,,37.8004125,-122.4404725,,tacolicious,,,1,,,,,,,2250 Chestnut St,San Francisco,CA,,,,,,ChIJIQBpAG2ahYAR_6128GcTUEo
+98,5,Bay Area,"1548 Stockton St,San Francisco,CA,",,,,,37.800124,-122.4088995,,tacolicious,,,1,,,,,,,1548 Stockton St,San Francisco,CA,,,,,,ChIJIQBpAG2ahYAR_6128GcTUEo
+99,5,Bay Area,"741 Valencia St,San Francisco,CA,",,,,,37.7609623,-122.4213427,,tacolicious,,,1,,,,,,,741 Valencia St,San Francisco,CA,,,,,,ChIJIQBpAG2ahYAR_6128GcTUEo
+100,5,Bay Area,"52 e santa clara st,San Jose,CA,",,,,,37.3366009,-121.8892083,,miniboss,,,1,,,,,,,52 e santa clara st,San Jose,CA,,,,,,ChIJz7vz57zMj4AR66YKpveK7v4
+101,5,Bay Area,"25 w san fernando st,San Jose,CA,",,,,,37.3342803,-121.8897689,,mezcal restaurant,,,1,,,,,,,25 w san fernando st,San Jose,CA,,,,,,ChIJ895uV7vMj4ARotK7CscA9To
+102,5,Bay Area,"1541 pacific ave ste b,Santa Cruz,CA,",,,,,36.9760848,-122.0272288,,barceloneta,,,1,,,,,,,1541 pacific ave ste b,Santa Cruz,CA,,,,,,EjExNTQxIFBhY2lmaWMgQXZlIHN0ZSBiLCBTYW50YSBDcnV6LCBDQSA5NTA2MCwgVVNBIiEaHwoWChQKEgnTT1leL0COgBGWJL-yqCMJTRIFc3RlIGI
+103,5,Bay Area,"dolores street, between 5th and, 6th ave,Carmel,CA,",,,,,36.5560319,-121.9230479,,"cultura, carmel-by-the-sea",,,1,,,,,,,"dolores street, between 5th and, 6th ave",Carmel,CA,,,,,,ChIJj01ByGrmjYART2gPov_ATuk
+104,5,Bay Area,"3627 san pablo ave,Emeryville,CA,",,,,,37.8277434,-122.2790067,,rob ben’s,,,1,,,,,,,3627 san pablo ave,Emeryville,CA,,,,,,ChIJ2zGGrxF-hYARpfWJ-Qe6T88
+105,5,Bay Area,"72 S 1st St,San Jose,CA,",,,,,37.3349854,-121.8894297,,paper plane,,,1,,,,,,,72 S 1st St,San Jose,CA,,,,,,
+106,4,Boston,"7 Sanborn Ct, Somerville, MA 02143",,,,,,,,back bar,,,1,,,,,,,7 Sanborn Ct,Somerville,MA,,,,,,
+107,4,Boston,"3 Beacon St, Somerville, MA 02143",,,,,,,,trina's starlite,,,1,,,,,,,3 Beacon St,Somerville,MA,,,,,,
+108,4,Boston,"170 W Broadway,Boston,MA,",,,,,42.3405077,-71.0528643,,backyard betty,,,1,,,,,,,170 W Broadway,Boston,MA,,,,,,
+109,4,Boston,"292 Massachusetts Ave,Cambridge,MA,",,,,,42.3620629,-71.0983939,,a4cade,,,1,,,,,,,292 Massachusetts Ave,Cambridge,MA,,,,,,
+110,4,Boston,"21 Drydock Ave,Boston ,MA,",,,,,42.3444358,-71.0310592,,chickadee,,,1,,,,,,,21 Drydock Ave,Boston ,MA,,,,,,
+111,4,Boston,"500 Commonwealth Ave ,Boston,MA,",,,,,42.3486282,-71.0952228,,the hawthorne,,,1,,,,,,,500 Commonwealth Ave ,Boston,MA,,,,,,
+112,4,Boston,"52 Church St,Cambridge,MA,",,,,,42.3739749,-71.1205932,,the sinclair,,,1,,,,,,,52 Church St,Cambridge,MA,,,,,,
+113,4,Boston,"175 Rivers Edge Drive,Medford,MA,",,,,,42.4099337,-71.0754948,,the porch juke joint,,,1,,,,,,,175 Rivers Edge Drive,Medford,MA,,,,,,
+114,4,Boston,"69 Bromfield St,Boston,MA,",,,,,42.3570841,-71.0608912,,silvertone,,,1,,,,,,,69 Bromfield St,Boston,MA,,,,,,
+115,2,New York,"514 UNION ST. ,Brooklyn,NY,",,,,,40.678507,-73.98701,,royal palms,,,1,,,,,,,514 UNION ST. ,Brooklyn,NY,,,,,,
+116,2,New York,"29 E. 2ND ST.,New York,NY,",,,,,40.7249134,-73.9907851,,rosies,,,1,,,,,,,29 E. 2ND ST.,New York,NY,,,,,,
+117,2,New York,"1 W. 3RD ST.,New York,NY,",,,,,40.7280068,-73.9949234,,west 3rd common ,,,1,,,,,,,1 W. 3RD ST.,New York,NY,,,,,,
+118,2,New York,"59 GRAND ST.,New York,NY,",,,,,40.722135,-74.0034907,,lucky strike,,,1,,,,,,,59 GRAND ST.,New York,NY,,,,,,
+119,2,New York,"195 BEDFORD AVE.,Brooklyn,NY,",,,,,40.7173431,-73.9580225,,vera cruz,,,1,,,,,,,195 BEDFORD AVE.,Brooklyn,NY,,,,,,
+120,2,New York,"510 HUDSON ST. ,New York,NY,",,,,,40.7334379,-74.0061358,,employee's only,,,1,,,,,,,510 HUDSON ST. ,New York,NY,,,,,,
+121,2,New York,"371 Broome St ,New York,NY,",,,,,40.720053,-73.9962548,,shoo shoo,,,1,,,,,,,371 Broome St ,New York,NY,,,,,,
+122,2,New York,"45 W. 35TH ST.,New York,NY,",,,,,40.750143,-73.9859914,,lot 15 at kixby hotel,,,1,,,,,,,45 W. 35TH ST.,New York,NY,,,,,,
+123,2,New York,"444 PARK AVE S. ,New York,NY,",,,,,40.7448422,-73.9833321,,cleo,,,1,,,,,,,444 PARK AVE S. ,New York,NY,,,,,,
+124,2,New York,"127 Loisaida Ave,New York,NY,",,,,,40.7248912,-73.9785797,,loverboy,,,1,,,,,,,127 Loisaida Ave,New York,NY,,,,,,
+125,6,Texas,"4216 Oak Lawn Ave, Dallas, TX",,,,,32.8201727,-96.8019635,,tulum,,,1,,,,,,,4216 Oak Lawn Ave,Dallas,TX,,,,,,
+126,6,Texas,"3858 Oak Lawn Ave #470, Dallas, TX",,,,,,,,jalisco norte,,,1,,,,,,,3858 Oak Lawn Ave #470,Dallas,TX,,,,,,
+127,6,Texas,"2912 N. Henderson Ave, Dallas, TX",,,,,32.8206309,-96.7846427,,the porch,,,1,,,,,,,2912 N. Henderson Ave,Dallas,TX,,,,,,
+128,6,Texas,"1617 Hi Line Dr. Unit 395, Dallas, TX",,,,,32.7952162,-96.8184364,,sassetta,,,1,,,,,,,1617 Hi Line Dr. Unit 395,Dallas,TX,,,,,,
+129,6,Texas,"1914 E 6th St ste c, Austin, TX 78702",,,,,,,,last straw,,,1,,,,,,,1914 E 6th St ste c,Austin,TX,,,,,,
+130,6,Texas,"2027 Anchor Ln, Austin, TX 78723",,,,,,,,contigo,,,1,,,,,,,2027 Anchor Ln,Austin,TX,,,,,,
