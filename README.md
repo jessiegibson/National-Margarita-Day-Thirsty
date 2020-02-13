@@ -1,4 +1,4 @@
-THIRSTY NATIONAL MARGARITA DAY 
+<b>THIRSTY NATIONAL MARGARITA DAY</b>
 
 https://thirstymag.com/margarita-day/
 
